@@ -61,3 +61,4 @@ MDK-ARM/RTE
 *.scvd
 *.User
 *.uvoptx
+*.mxproject
