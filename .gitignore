@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# CubeMX libraries
+Drivers/
+
+# Keil output files
+MDK-ARM/DebugConfig
+MDK-ARM/lobusmobus-stm32f071vbt6
+MDK-ARM/RTE
+*.scvd
+*.User
+*.uvoptx
